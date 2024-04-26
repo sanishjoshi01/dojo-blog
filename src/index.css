@@ -118,3 +118,8 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found {
+  text-align: center;
+  line-height: 2;
+}
